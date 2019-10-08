@@ -3,3 +3,4 @@ __pycache__/
 data
 .idea
 venv
+model_transfer.pt
